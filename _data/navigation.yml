@@ -2,8 +2,6 @@
 main:
   - title: "Linguee"
     url: http://www.linguee.es/
-  - title: "Mmistakes Theme"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

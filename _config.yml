@@ -12,7 +12,7 @@ title                    : "English Lessons"
 title_separator          : "-"
 name                     : "Ricardo Maqueda"
 description              : "An amazing website."
-url                      : http://www.molestudio.es/EnglishLessons
+url                      : http://www.molestudio.es
 baseurl                  : "/EnglishLessons"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

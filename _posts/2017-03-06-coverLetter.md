@@ -1,6 +1,5 @@
 ---
 title: "Cover Letter"
-breadcrumb: Redaction
 categories:
   - Redaction
 tags:
